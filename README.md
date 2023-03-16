@@ -20,7 +20,7 @@ The results of the category-specific agreement assessment, as presented in Table
 <p align="middle">
   <img src="tbl1.png" width="30%" height="150%" />
   <img src="tbl2.png" width="30%" height="150%" />
-  <img src="tbl3.png" width="30%" height="150%" />
+  <img src="tbl3.png" width="30%" />
 </p>
 
 ## Conclusion
