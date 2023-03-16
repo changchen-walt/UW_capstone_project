@@ -18,9 +18,9 @@ The results showed that there was a weak agreement between self-reported LRCQ an
 The results of the category-specific agreement assessment, as presented in Table on the right, indicate that both measures achieved similar agreements with the bootstrapped confidence interval ranging between 0.4 and 0.7 for both the active and inactive categories. Furthermore, the analysis revealed that the low activity and high activity categories demonstrated similar agreements between the two measures. However, the medium activity category showed lower agreement compared to the other two categories. This finding suggests that the LRCQ responses may be inaccurate when patients are in a state of medium physical activity.
 
 <p align="middle">
-  <img src="tbl1.png" width="30%" />
-  <img src="tbl2.png" width="30%" />
-  <img src="tbl3.png" width="30%" />
+  <img src="tbl1.png" width="30%" height="150%" />
+  <img src="tbl2.png" width="30%" height="150%" />
+  <img src="tbl3.png" width="30%" height="150%" />
 </p>
 
 ## Conclusion
